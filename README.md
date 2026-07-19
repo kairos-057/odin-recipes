@@ -1,2 +1,3 @@
 # odin-recipes
-Hello Odin!
+This is my first official project
+Following will be my "Favourite Dishes" recipes
